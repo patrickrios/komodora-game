@@ -16,9 +16,6 @@ export const KomodoraPresskit = () => {
             <header  className={css.presskitHeader}>
                 <img src={komodoraLogo}/>
             </header>
-            <a href="https://drive.google.com/drive/u/0/folders/1NU1eWnwIt7t33_d2odi7sLGWi8JRcLCF" target="_blank" rel="noreferrer" className={css.dowloadButton}>
-                Baixar os arquivos do Press Kit
-            </a>
             <article className={css.content}>
                 <section className={css.contentSection}>
                     <div>
