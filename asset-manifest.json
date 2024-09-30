@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/komodora/static/css/main.b75b7d75.css",
-    "main.js": "/komodora/static/js/main.8a3bcd98.js",
-    "static/media/screenshot_03-min.png": "/komodora/static/media/screenshot_03-min.a12ba59e849dd74fd31f.png",
-    "static/media/screenshot_04-min.png": "/komodora/static/media/screenshot_04-min.5901b22d091e350cbdde.png",
-    "static/media/screenshot_02-min.png": "/komodora/static/media/screenshot_02-min.b082c9c4d4d6bb46818c.png",
-    "static/media/screenshot_01-min.png": "/komodora/static/media/screenshot_01-min.63bf1a8c5a069120559a.png",
-    "static/media/screenshot_05-min.png": "/komodora/static/media/screenshot_05-min.9d3928f2f2718b8a3f6f.png",
-    "static/media/komdora_vertical_cover_min.png": "/komodora/static/media/komdora_vertical_cover_min.f09b6197e60342863da7.png",
-    "static/media/komodora_logotype-min.png": "/komodora/static/media/komodora_logotype-min.0f6a430277ccc44afae4.png",
-    "index.html": "/komodora/index.html",
-    "main.b75b7d75.css.map": "/komodora/static/css/main.b75b7d75.css.map",
-    "main.8a3bcd98.js.map": "/komodora/static/js/main.8a3bcd98.js.map"
+    "main.css": "/komodora-game/static/css/main.b75b7d75.css",
+    "main.js": "/komodora-game/static/js/main.5deb23dd.js",
+    "static/media/screenshot_03-min.png": "/komodora-game/static/media/screenshot_03-min.a12ba59e849dd74fd31f.png",
+    "static/media/screenshot_04-min.png": "/komodora-game/static/media/screenshot_04-min.5901b22d091e350cbdde.png",
+    "static/media/screenshot_02-min.png": "/komodora-game/static/media/screenshot_02-min.b082c9c4d4d6bb46818c.png",
+    "static/media/screenshot_01-min.png": "/komodora-game/static/media/screenshot_01-min.63bf1a8c5a069120559a.png",
+    "static/media/screenshot_05-min.png": "/komodora-game/static/media/screenshot_05-min.9d3928f2f2718b8a3f6f.png",
+    "static/media/komdora_vertical_cover_min.png": "/komodora-game/static/media/komdora_vertical_cover_min.f09b6197e60342863da7.png",
+    "static/media/komodora_logotype-min.png": "/komodora-game/static/media/komodora_logotype-min.0f6a430277ccc44afae4.png",
+    "index.html": "/komodora-game/index.html",
+    "main.b75b7d75.css.map": "/komodora-game/static/css/main.b75b7d75.css.map",
+    "main.5deb23dd.js.map": "/komodora-game/static/js/main.5deb23dd.js.map"
   },
   "entrypoints": [
     "static/css/main.b75b7d75.css",
-    "static/js/main.8a3bcd98.js"
+    "static/js/main.5deb23dd.js"
   ]
 }
