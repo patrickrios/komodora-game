@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/komodora-game/static/css/main.9f821de8.css",
-    "main.js": "/komodora-game/static/js/main.8bff0253.js",
+    "main.css": "/komodora-game/static/css/main.bf12ff72.css",
+    "main.js": "/komodora-game/static/js/main.5b1b993f.js",
     "static/media/komdora_vertical_cover_min.png": "/komodora-game/static/media/komdora_vertical_cover_min.f09b6197e60342863da7.png",
+    "static/media/clecio_game_jam-min.png": "/komodora-game/static/media/clecio_game_jam-min.7749d4fc95eb0bc2a766.png",
     "static/media/komodora_logotype-min.png": "/komodora-game/static/media/komodora_logotype-min.0f6a430277ccc44afae4.png",
     "static/media/menu-nav-back-min.png": "/komodora-game/static/media/menu-nav-back-min.c1befc30ef869c959838.png",
-    "static/media/header_bg_image-min.png": "/komodora-game/static/media/header_bg_image-min.4db2da380096b95a25b3.png",
     "static/media/puzzle_plataforma_2D-min.png": "/komodora-game/static/media/puzzle_plataforma_2D-min.54c82310d11c85cd18fc.png",
     "static/media/lindos_graficos_pixel_art-min.png": "/komodora-game/static/media/lindos_graficos_pixel_art-min.1b3f1abb5be49d2a3994.png",
     "index.html": "/komodora-game/index.html",
-    "main.9f821de8.css.map": "/komodora-game/static/css/main.9f821de8.css.map",
-    "main.8bff0253.js.map": "/komodora-game/static/js/main.8bff0253.js.map"
+    "main.bf12ff72.css.map": "/komodora-game/static/css/main.bf12ff72.css.map",
+    "main.5b1b993f.js.map": "/komodora-game/static/js/main.5b1b993f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f821de8.css",
-    "static/js/main.8bff0253.js"
+    "static/css/main.bf12ff72.css",
+    "static/js/main.5b1b993f.js"
   ]
 }
