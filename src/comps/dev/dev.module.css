@@ -1,0 +1,41 @@
+.dev{
+    width:100%;
+    padding:1rem;
+    gap:1rem;
+    margin-top:1rem;
+}
+.dev h2{
+    color: var(--gray-80);
+}
+.dev p{
+    color: var(--gray-70);
+    margin-top:.85rem;
+    line-height: 1.5rem;
+}
+.dev i{
+    color: var(--gray-80);
+    font-weight: bold;
+}
+.jamSection{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.jamSection img{
+    margin:1rem 0;
+}
+
+
+@media screen and (min-width: 900px) {
+    .dev{
+        width:900px;
+    }
+    .jamSection{
+        display: grid;
+        grid-template-columns:2fr 2fr;
+        gap:1rem;
+    }
+    .jamSection img{
+        margin: 0;
+    }
+    
+}

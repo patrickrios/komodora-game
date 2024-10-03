@@ -6,6 +6,12 @@ import { MenuIcon } from "../../assets/icons";
 const menuItems = [{
         name: "Home",
         tab: 0
+    },{
+        name: "Desenvolvimento",
+        tab: 1
+    },{
+        name: "Contato",
+        tab: 2
     }
 ];
 

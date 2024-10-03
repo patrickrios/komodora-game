@@ -1,6 +1,7 @@
 .mainMenu{
     width:100%;
     display: none;
+    margin-top: 2rem;
 }
 .mainMenu ul{
     width:100%;
@@ -32,7 +33,7 @@
 }
 .selectContainer{
     position: relative;
-    width: calc(100% - 2rem);
+    width: 100%;
     border-radius:.25rem;
     display: flex;
     align-items: center;
